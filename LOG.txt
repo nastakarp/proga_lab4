@@ -1,0 +1,63 @@
+HEAD
+ | 
+\|/
+aaaaa -> NULL
+ | 
+\|/
+bbbbb -> NULL
+ | 
+\|/
+ccccc -> NULL
+ | 
+\|/
+ddddd -> NULL
+ | 
+\|/
+eeeee -> NULL
+ | 
+\|/
+ggggg -> g -> NULL
+ | 
+\|/
+NULL
+
+HEAD
+ | 
+\|/
+bbbbb -> NULL
+ | 
+\|/
+ccccc -> NULL
+ | 
+\|/
+ccccc -> NULL
+ | 
+\|/
+ddddd -> NULL
+ | 
+\|/
+fffff -> NULL
+ | 
+\|/
+NULL
+
+HEAD
+ | 
+\|/
+aaaaa -> NULL
+ | 
+\|/
+ccccc -> NULL
+ | 
+\|/
+eeeee -> NULL
+ | 
+\|/
+fffff -> NULL
+ | 
+\|/
+ggggg -> g -> NULL
+ | 
+\|/
+NULL
+
